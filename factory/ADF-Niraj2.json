@@ -5,6 +5,10 @@
 			"key": {
 				"type": "string",
 				"value": "poiuytf"
+			},
+			"key1": {
+				"type": "string",
+				"value": "poiuytf"
 			}
 		}
 	},
