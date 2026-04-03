@@ -1,0 +1,12 @@
+{
+	"name": "ADF-Niraj2",
+	"properties": {
+		"globalParameters": {
+			"key": {
+				"type": "string",
+				"value": "poiuytf"
+			}
+		}
+	},
+	"location": "eastasia"
+}
