@@ -5,6 +5,10 @@
 			"Name": {
 				"type": "string",
 				"value": "gfds"
+			},
+			"url": {
+				"type": "string",
+				"value": "3456789op;lkjhgfvcxcvbnm,"
 			}
 		}
 	},
