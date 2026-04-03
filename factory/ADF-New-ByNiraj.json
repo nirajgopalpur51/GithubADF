@@ -5,6 +5,10 @@
 			"Name": {
 				"type": "string",
 				"value": "Niraj"
+			},
+			"URL": {
+				"type": "string",
+				"value": "kjhgfdew456789oijhgv"
 			}
 		}
 	},
