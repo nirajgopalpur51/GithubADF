@@ -1,5 +1,13 @@
 {
 	"name": "ADF-New-ByNiraj",
+	"properties": {
+		"globalParameters": {
+			"Name": {
+				"type": "string",
+				"value": "Niraj"
+			}
+		}
+	},
 	"location": "eastasia",
 	"identity": {
 		"type": "SystemAssigned",
